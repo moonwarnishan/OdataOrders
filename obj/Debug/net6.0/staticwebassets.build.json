@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "izP8itJcBm0WcRQY/BebM3GRMEFrQDz8mS164r+AAgA=",
+  "Source": "ODataOrders",
+  "BasePath": "_content/ODataOrders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

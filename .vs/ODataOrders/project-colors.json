@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2d7e281-8988-49c9-8bbc-0341d7f7988b": {
+      "ProjectGuid": "a2d7e281-8988-49c9-8bbc-0341d7f7988b",
+      "DisplayName": "ODataOrders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
